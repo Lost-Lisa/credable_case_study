@@ -1,0 +1,6 @@
+order_id,shipment_date&time,delivery_date&time,Mode,Carrier,Total_Charges,Shipment_tracking,Payment_status
+25635265,1PM 1 Jan,6PM 6 Jan,Air,BlueDart,856.50,15245254,Paid
+65325644,2PM 2Jan,9PM 8 Jan,Land,Sky,9999.99,25456585,Unpaid
+
+
+
